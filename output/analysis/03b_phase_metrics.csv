@@ -1,0 +1,7 @@
+time_phase,major_delay_rate,gapping_rate,bunching_rate,n_incidents
+early_morning,0.166,0.133,0.127,12446
+am_peak,0.126,0.119,0.091,20170
+midday,0.114,0.111,0.074,40383
+pm_peak,0.115,0.112,0.103,41528
+evening,0.19,0.161,0.082,24352
+overnight,0.328,0.269,0.161,13209
