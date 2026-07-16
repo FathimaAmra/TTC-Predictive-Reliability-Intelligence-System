@@ -56,4 +56,4 @@ jobs:
 
           git diff --cached --quiet || git commit -m "Daily TTC prediction update"
 
-          git pushs
+          git push
